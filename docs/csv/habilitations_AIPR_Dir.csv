@@ -91,8 +91,8 @@
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","11/12/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44","19/12/2028","Durable"
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA
-"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","18/10/2028","Durable"
 "Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","Compétence exigée","Non renseignée"
+"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","18/10/2028","Durable"
 "Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44","16/10/2030","Durable"
 "Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44","Compétence exigée","Non renseignée"
 "Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44","Compétence exigée","Non renseignée"
@@ -103,7 +103,7 @@
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","Compétence exigée","Non renseignée"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44","15/05/2028","Durable"
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44","11/12/2028","Durable"
-"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44","10/12/2026","Moins d'1 an"
+"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44","10/12/2026","Moins de 6 mois"
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44","06/11/2030","Durable"
 "Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA
@@ -141,7 +141,7 @@
 "Heric","HIAS","OLIVIER","agent d'exploitation","District 44","Compétence exigée","Non renseignée"
 "Heric","LE GAL","MATTHIEU","responsable de cei","District 44","14/03/2028","Durable"
 "Heric","LE GAL","MATTHIEU","responsable de cei","District 44","Compétence exigée","Non renseignée"
-"Heric","LELIEVRE","OLIVIER","responsable d'explo","District 44","10/12/2026","Moins d'1 an"
+"Heric","LELIEVRE","OLIVIER","responsable d'explo","District 44","10/12/2026","Moins de 6 mois"
 "Heric","LEPAGE","ERIC","agent d'exploitation","District 44","16/10/2030","Durable"
 "Heric","LEROY","PHILIPPE","agent d'exploitation","District 44","16/10/2030","Durable"
 "Heric","LUCO","TONY","chef(fe) d'equipe","District 44","19/12/2028","Durable"
@@ -150,7 +150,7 @@
 "Heric","POUILLOUX","FABRICE","agent d'exploitation","District 44","06/11/2030","Durable"
 "Heric","RINCE","SEBASTIEN","agent d'exploitation","District 44","16/10/2030","Durable"
 "Heric","TALABAS","MARC","chef equipe b","District 44","Compétence exigée","Non renseignée"
-"La Seguiniere","ABELLARD","DIDIER","responsable de cei","District 44","10/12/2026","Moins d'1 an"
+"La Seguiniere","ABELLARD","DIDIER","responsable de cei","District 44","10/12/2026","Moins de 6 mois"
 "La Seguiniere","AUDEBAULT","MARTIAL","chef.fe d'équipe","District 44","21/10/2027","Durable"
 "La Seguiniere","BAUDRY","PIERRICK","agent d'exploitation","District 44","16/05/2029","Durable"
 "La Seguiniere","BERTHELOT","JEROME","agent d'exploitation","District 44","15/06/2027","Durable"
@@ -194,7 +194,7 @@
 "Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56","28/02/2028","Durable"
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56","23/11/2028","Durable"
-"Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56","10/12/2026","Moins d'1 an"
+"Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56","10/12/2026","Moins de 6 mois"
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56","12/12/2028","Durable"
 "Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56","28/02/2028","Durable"
 "Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56","28/11/2029","Durable"
@@ -292,8 +292,8 @@
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44","13/11/2030","Durable"
 "Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA
 "Nantes","HECHT","FRANCK","agent d'exploitation","District 44","10/11/2026","Moins de 6 mois"
-"Nantes","HERVO","BENOIST",NA,"District 44","19/12/2028","Durable"
 "Nantes","HERVO","BENOIST",NA,"District 44","10/11/2026","Moins de 6 mois"
+"Nantes","HERVO","BENOIST",NA,"District 44","19/12/2028","Durable"
 "Nantes","HERVO","BENOIST-CHARLES","responsable d'explo","District 44",NA,NA
 "Nantes","LEFORT","DAVID","agent d'exploitation","District 44","Compétence exigée","Non renseignée"
 "Nantes","LERAY","GARY","agent d'exploitation","District 44","06/11/2030","Durable"
