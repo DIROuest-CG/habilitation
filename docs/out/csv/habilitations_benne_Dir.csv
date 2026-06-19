@@ -3,7 +3,6 @@
 "Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35","13/06/2035","Durable"
 "Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35","13/06/2035","Durable"
 "Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35","06/05/2032","Durable"
-"Bain de Bretagne","GIAI-CHECA","DAMIEN","agent d'exploitation","District 35","06/05/2032","Durable"
 "Bain de Bretagne","GUIONNET","MARTIAL","agent d'exploitation","District 35","13/06/2035","Durable"
 "Bain de Bretagne","HAMON","CEDRIC","agent d'exploitation","District 35","13/06/2035","Durable"
 "Bain de Bretagne","JUSTAL","PATRICK","responsable d'explo","District 35","10/03/2032","Durable"
@@ -36,7 +35,7 @@
 "Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29","04/04/2035","Durable"
 "Brest","TREBAOL","PATRICK",NA,"District 29","04/04/2035","Durable"
 "Brest","VALLEE","STEPHANE","agent d'exploitation","District 29","04/04/2035","Durable"
-"Chateaubourg","BESNIER","ANTOINE","chef(fe) d'equipe","District 35","12/01/2033","Durable"
+"Chateaubourg","BESNIER","ANTOINE","chef equipe c","District 35","12/01/2033","Durable"
 "Chateaubourg","BESNIER","JEAN-LUC","agent d'exploitation","District 35","13/03/2035","Durable"
 "Chateaubourg","BOISSEAU","GUENOLE","agent d'exploitation","District 35","13/03/2035","Durable"
 "Chateaubourg","CHAUVIERE","XAVIER","agent d'exploitation","District 35","17/01/2030","Durable"
@@ -45,14 +44,15 @@
 "Chateaubourg","ELUARD","JEAN-MICHEL","chef equipe a","District 35","13/03/2035","Durable"
 "Chateaubourg","EON","JEAN-MARC","agent d'exploitation","District 35","15/10/2031","Durable"
 "Chateaubourg","FRETARD","ERIC","responsable d'explo","District 35","05/04/2033","Durable"
+"Chateaubourg","GUIBRETEAU","ALEXANDRE","chef equipe b","District 35","12/04/2028","Durable"
 "Chateaubourg","HAVARD","DAVID","agent d'exploitation","District 35","09/02/2033","Durable"
 "Chateaubourg","HUET","SYLVAIN","responsable d'explo","District 35",NA,NA
 "Chateaubourg","HUET","SYLVAIN-JEAN",NA,"District 35","06/05/2032","Durable"
 "Chateaubourg","JEANNE","QUENTIN","agent d'exploitation","District 35","11/04/2034","Durable"
 "Chateaubourg","JEULAND","PAUL","agent d'exploitation","District 35","15/10/2031","Durable"
 "Chateaubourg","MICAULT","JEAN-PAUL","agent d'exploitation","District 35",NA,NA
-"Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","15/10/2031","Durable"
 "Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","12/01/2033","Durable"
+"Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","15/10/2031","Durable"
 "Chateaubourg","PASQUALIN","JEAN","agent d'exploitation","District 35","13/03/2035","Durable"
 "Chateaubourg","PREAUCHAT","SEBASTIEN","agent d'exploitation","District 35","15/10/2031","Durable"
 "Chateaubourg","TESNIERE","JACQUES","agent d'exploitation","District 35","12/04/2028","Durable"
@@ -63,7 +63,7 @@
 "Chateaulin","BOULIC","ARNAUD","agent d'exploitation","District 29","21/11/2029","Durable"
 "Chateaulin","CHEVILLARD","JULIEN","agent d'exploitation","District 29",NA,NA
 "Chateaulin","COLIN","PIERRE","chef equipe a","District 29","06/10/2033","Durable"
-"Chateaulin","FRANCOIS","GWENAEL","responsable d'explo","District 29","04/04/2035","Durable"
+"Chateaulin","FRANCOIS","GWENAEL","chef equipe c","District 29","04/04/2035","Durable"
 "Chateaulin","GONIDEC","ERIC","chef equipe a","District 29","25/09/2030","Durable"
 "Chateaulin","GUEDES","DIDIER","responsable d'explo","District 29","21/11/2029","Durable"
 "Chateaulin","PRIMOT","CHRISTOPHE","agent d'exploitation","District 29","25/09/2030","Durable"
@@ -80,8 +80,7 @@
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","19/01/2034","Durable"
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA
-"Chateauneuf du Faou","LE BERRE","BERNARD",NA,"District 29","19/01/2034","Durable"
-"Chateauneuf du Faou","MORIO","SAMUEL","chef.fe d'équipe","District 29","29/04/2032","Durable"
+"Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","29/04/2032","Durable"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29",NA,NA
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","19/01/2034","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","19/11/2035","Durable"
@@ -102,8 +101,8 @@
 "Guingamp","PATCHE","JIMMY","agent d'exploitation","District 22","30/11/2033","Durable"
 "Guingamp","PEROU","CHRISTOPHE","agent d'exploitation","District 22",NA,NA
 "Guingamp","PINARD","ERWAN","chef equipe b","District 22","26/10/2033","Durable"
-"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","04/03/2030","Durable"
 "Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","13/09/2034","Durable"
+"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","04/03/2030","Durable"
 "Guingamp","SIMON","JEROME","agent d'exploitation","District 22","19/03/2031","Durable"
 "Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","30/11/2033","Durable"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA
@@ -142,26 +141,26 @@
 "La Seguiniere","VINCENT","OLIVIER","responsable d'explo","District 44",NA,NA
 "Le Perray","BERNARD","FRANCK","agent d'exploitation","District 22","26/03/2035","Durable"
 "Le Perray","COLLEU","BERTRAND","agent d'exploitation","District 22","30/11/2033","Durable"
-"Le Perray","DESVIGNE","BRIEG","agent d'exploitation","District 22","10/12/2031","Durable"
-"Le Perray","DUFOURD","MICKAEL","ajoint chef cei","District 22",NA,NA
-"Le Perray","DUROS","CHRISTOPHE","agent d'exploitation","District 22",NA,NA
-"Le Perray","GLATRE","MICKAEL","agent d'exploitation","District 22","19/03/2031","Durable"
-"Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22","15/11/2029","Durable"
-"Le Perray","HAMON","ROMAIN","responsable d'explo","District 22","06/06/2028","Durable"
+"Le Perray","DESVIGNE","BRIEG","agent d'exploitation","District 22","25/03/2036","Durable"
+"Le Perray","DUFOURD","MICKAEL","ajoint chef cei","District 22","25/03/2036","Durable"
+"Le Perray","DUROS","CHRISTOPHE","agent d'exploitation","District 22","25/03/2036","Durable"
+"Le Perray","GLATRE","MICKAEL","agent d'exploitation","District 22","27/03/2036","Durable"
+"Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22","25/03/2036","Durable"
+"Le Perray","HAMON","ROMAIN","responsable d'explo","District 22","25/03/2036","Durable"
 "Le Perray","HERVIOU","RONAN","responsable d'explo","District 22",NA,NA
-"Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22",NA,NA
+"Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22","27/03/2036","Durable"
 "Le Perray","JONQUET","HERVE","agent d'exploitation","District 22","26/10/2033","Durable"
 "Le Perray","LHOMMEAU","JACQUES","agent d'exploitation","District 22","30/11/2033","Durable"
 "Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22","12/01/2033","Durable"
 "Le Perray","NOGRETTE","STEPHANE","responsable de cei","District 22",NA,NA
-"Le Perray","OLLIVIER","STEPHANE","responsable d'explo","District 22",NA,NA
-"Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","12/12/2029","Durable"
+"Le Perray","OLLIVIER","STEPHANE","responsable d'explo","District 22","25/03/2036","Durable"
+"Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","25/03/2036","Durable"
 "Le Perray","PERRIN","CYRILLE","agent d'exploitation","District 22","26/10/2033","Durable"
-"Le Perray","PICQUET","FABIEN","responsable d'explo","District 22","06/06/2028","Durable"
+"Le Perray","PICQUET","FABIEN","responsable d'explo","District 22","27/03/2036","Durable"
 "Le Perray","PINARD","EMILIE","responsable d'explo","District 22","26/10/2033","Durable"
-"Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","10/12/2031","Durable"
-"Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22",NA,NA
-"Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22",NA,NA
+"Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","27/03/2036","Durable"
+"Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22","27/03/2036","Durable"
+"Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","27/03/2036","Durable"
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","30/11/2033","Durable"
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA
 "Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","05/12/2033","Durable"
@@ -175,7 +174,6 @@
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56","05/04/2034","Durable"
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56","07/12/2032","Durable"
 "Locmine","LE BRAZIDEC","YOANN","agent d'exploitation","District 56","10/12/2031","Durable"
-"Locmine","LE FRANC","HERVE",NA,"District 56","12/03/2030","Durable"
 "Locmine","LE TUTOUR","YANNICK","agent d'exploitation","District 56","05/04/2034","Durable"
 "Locmine","OFFREDO","SAMUEL","responsable d'explo","District 56","07/12/2032","Durable"
 "Locmine","PHILIPPE","JULIEN","agent d'exploitation","District 56",NA,NA
@@ -235,7 +233,6 @@
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35","18/11/2035","Durable"
 "Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35","18/11/2035","Durable"
-"Mayenne","GUIBRETEAU","ALEXANDRE",NA,"District 35","12/04/2028","Durable"
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","11/04/2034","Durable"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","13/03/2035","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA
@@ -259,7 +256,7 @@
 "Melgven","PROVOST","ANTHONY","chef.fe de cei","District 29",NA,NA
 "Melgven","RANNOU","BERNARD","responsable d'explo","District 29","14/02/2030","Durable"
 "Melgven","TOUCHARD","NICOLAS","agent d'exploitation","District 29","04/07/2035","Durable"
-"Nantes","BERNARD","JOEL","responsable d'explo","District 44","19/04/2028","Durable"
+"Nantes","BERNARD","JOEL","chef equipe c","District 44","19/04/2028","Durable"
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA
@@ -268,7 +265,7 @@
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA
 "Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA
 "Nantes","HECHT","FRANCK","agent d'exploitation","District 44",NA,NA
-"Nantes","HERVO","BENOIST-CHARLES","responsable d'explo","District 44",NA,NA
+"Nantes","HERVO","BENOIST-CHARLES","chef equipe d","District 44",NA,NA
 "Nantes","LEFORT","DAVID","agent d'exploitation","District 44","05/04/2034","Durable"
 "Nantes","LERAY","GARY","agent d'exploitation","District 44",NA,NA
 "Nantes","LERAY","GREGORY","agent d'exploitation","District 44",NA,NA
@@ -328,8 +325,7 @@
 "Pleumeleuc","SAID","YOUSSOUF","agent d'exploitation","District 35","19/03/2031","Durable"
 "Pleumeleuc","TABUREL","JEAN-PHILIPPE","chef equipe e","District 35",NA,NA
 "Pleumeleuc","TABUREL","JOSSELIN","agent d'exploitation","District 35","24/02/2032","Durable"
-"Ploermel","ARZUL","LIONEL",NA,"District 56",NA,NA
-"Ploermel","AUBRY","STEPHANE","chef(fe) d'equipe","District 56","25/05/2028","Durable"
+"Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","25/05/2028","Durable"
 "Ploermel","BESSY","FRANCK","agent d'exploitation","District 56",NA,NA
 "Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","10/01/2033","Durable"
 "Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","10/03/2030","Durable"
@@ -347,14 +343,13 @@
 "Ploermel","SERY","GUY","chef(fe) d'equipe","District 56","23/01/2030","Durable"
 "Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","12/03/2030","Durable"
 "Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56","12/03/2030","Durable"
-"Rennes","BLOINO","PHILIPPE",NA,"District 35","23/01/2030","Durable"
 "Rennes","BLOT","BENOIT","agent d'exploitation","District 35","09/02/2033","Durable"
 "Rennes","BOSCHER","FREDERIC","chef equipe a","District 35","13/03/2035","Durable"
 "Rennes","BRIEND","PHILIPPE","agent d'exploitation","District 35","02/02/2033","Durable"
 "Rennes","BROGARD","MAXIME","agent d'exploitation","District 35","02/02/2033","Durable"
 "Rennes","BUFFET","ANDRE","agent d'exploitation","District 35","30/04/2035","Durable"
 "Rennes","CHAUVEL","FREDERIC","chef equipe c","District 35","02/02/2033","Durable"
-"Rennes","CHEREL","JEAN-MICHEL","responsable d'explo","District 35","13/12/2033","Durable"
+"Rennes","CHEREL","JEAN-MICHEL","chef equipe f","District 35","13/12/2033","Durable"
 "Rennes","COURTEILLE","CYRILLE","chef equipe d","District 35","09/02/2033","Durable"
 "Rennes","FAUNE","CEDRIC","agent d'exploitation","District 35","09/02/2033","Durable"
 "Rennes","FAVRY","PATRICE","agent d'exploitation","District 35","13/12/2033","Durable"
@@ -363,8 +358,8 @@
 "Rennes","GUILLEMER","ANDRE","agent d'exploitation","District 35","23/01/2030","Durable"
 "Rennes","GUILLERON","LAURENT","agent d'exploitation","District 35",NA,NA
 "Rennes","KERNEN","GUENAEL","responsable de cei","District 35","30/04/2035","Durable"
-"Rennes","LANOE","DAVID","agent d'exploitation","District 35","10/01/2033","Durable"
 "Rennes","LANOE","DAVID","agent d'exploitation","District 35","12/04/2028","Durable"
+"Rennes","LANOE","DAVID","agent d'exploitation","District 35","10/01/2033","Durable"
 "Rennes","LE GOFF","SYLVAIN","responsable d'explo","District 35","11/04/2034","Durable"
 "Rennes","LEGENDRE","FRANCK","agent d'exploitation","District 35","29/01/2030","Durable"
 "Rennes","LELIEVRE","STEPHANE","chef equipe b","District 35","30/04/2035","Durable"
@@ -385,7 +380,6 @@
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA
 "Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","13/05/2029","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA
-"Rostrenen","LARHANTEC","JEAN-JACQUES",NA,"District 22","13/05/2029","Durable"
 "Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA
@@ -393,7 +387,7 @@
 "Rostrenen","MARTINEAU","LOIC","agent.e d'exploit","District 22",NA,NA
 "Rostrenen","PERAN","JEAN-MICHEL","responsable d'explo","District 22","10/01/2033","Durable"
 "Rostrenen","PERAN","JEAN-MICHEL","responsable d'explo","District 22","10/12/2031","Durable"
-"Rostrenen","TREUSSARD","LOIC","chef equipe a","District 22","13/05/2029","Durable"
+"Rostrenen","TREUSSARD","LOIC","chef equipe a","District 22","27/03/2036","Durable"
 "Savenay","BALY","CHRISTOPHE","adjoint.e chef cei","District 44",NA,NA
 "Savenay","BERTOLDI","EMMANUEL","responsable d'explo","District 44","08/04/2032","Durable"
 "Savenay","BEZIER","SIMON","agent d'exploitation","District 44","08/04/2032","Durable"
@@ -402,23 +396,23 @@
 "Savenay","BRASSART","GREGORY-JR",NA,"District 44","05/04/2034","Durable"
 "Savenay","CHARLIER","ROMAIN","agent d'exploitation","District 44","08/04/2032","Durable"
 "Savenay","CHARLIER","ROMAIN","agent d'exploitation","District 44","10/01/2033","Durable"
-"Savenay","DUVAL","JEAN","agent d'exploitation","District 44",NA,NA
+"Savenay","DUVAL","JEAN","agent d'exploitation","District 44","10/02/2036","Durable"
 "Savenay","ETIENNE","RAPHAEL","agent d'exploitation","District 44","08/04/2032","Durable"
 "Savenay","FORTUNE","GREGORY","chef equipe c","District 44","19/03/2034","Durable"
 "Savenay","GAGNE","FABRICE","agent d'exploitation","District 44","05/04/2034","Durable"
 "Savenay","GUILLERM","PHILIPPE","chef equipe d","District 44","19/03/2034","Durable"
-"Savenay","LECOMTE","SEBASTIEN","agent d'exploitation","District 44",NA,NA
+"Savenay","LECOMTE","SEBASTIEN","agent d'exploitation","District 44","10/02/2036","Durable"
 "Savenay","LEGENTILHOMME","YANN","agent d'exploitation","District 44","05/04/2034","Durable"
 "Savenay","LEROUX","DENIS","agent d'exploitation","District 44","08/04/2032","Durable"
 "Savenay","LESCOP","DAVID","agent d'exploitation","District 44","19/03/2034","Durable"
 "Savenay","LIBEAU","PHILIPPE","responsable d'explo","District 44","05/04/2034","Durable"
-"Savenay","MOCHER","FABIEN","agent d'exploitation","District 44",NA,NA
+"Savenay","MOCHER","FABIEN","agent d'exploitation","District 44","10/02/2036","Durable"
 "Savenay","MORIN","ERIC","agent d'exploitation","District 44",NA,NA
 "Savenay","MORIN","ERIC1",NA,"District 44","19/03/2034","Durable"
 "Savenay","MOYON","JESSY","agent d'exploitation","District 44","08/04/2032","Durable"
 "Savenay","PEROCHEAU","QUENTIN","agent d'exploitation","District 44","05/04/2034","Durable"
 "Savenay","PIGAL","PIERRICK","agent d'exploitation","District 44","19/03/2034","Durable"
-"Savenay","PILOQUET","LOIC","agent d'exploitation","District 44",NA,NA
+"Savenay","PILOQUET","LOIC","agent d'exploitation","District 44","10/02/2036","Durable"
 "Savenay","PINARD","SEBASTIEN","chef equipe b","District 44","05/04/2034","Durable"
 "Savenay","SALLIOT","YANNICK","agent d'exploitation","District 44","05/04/2034","Durable"
 "Savenay","SIMON","PASCAL","responsable de cei","District 44",NA,NA
@@ -463,9 +457,9 @@
 "St Thegonnec","PAPE","MICHEL","agent d'exploitation","District 29",NA,NA
 "St Thegonnec","PROUFF","JEAN RENE","agent d'exploitation","District 29",NA,NA
 "St Thegonnec","SIMON","GERARD","chef equipe b","District 29",NA,NA
-"St Thegonnec","VINCENT","JOHANN","responsable d'explo","District 29","11/10/2029","Durable"
+"St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29","11/10/2029","Durable"
 "Tramain","BELNA","JEROME","agent d'exploitation","District 22","13/09/2034","Durable"
-"Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22","10/12/2031","Durable"
+"Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22","03/04/2036","Durable"
 "Tramain","CHOUANNIERE","ERIC","responsable d'explo","District 22",NA,NA
 "Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22","26/03/2035","Durable"
 "Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","20/03/2034","Durable"
@@ -473,16 +467,15 @@
 "Tramain","FOUERE","QUENTIN","agent d'exploitation","District 22","26/03/2035","Durable"
 "Tramain","LANDRIN","SEBASTIEN","responsable d'explo","District 22","26/03/2035","Durable"
 "Tramain","LE COZIC","SEBASTIEN","chef equipe a","District 22",NA,NA
-"Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","18/12/2035","Durable"
+"Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","03/04/2036","Durable"
 "Tramain","MORIN","XAVIER","agent d'exploitation","District 22","26/03/2035","Durable"
-"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22",NA,NA
-"Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22",NA,NA
-"Tramain","RASSELET","ANTOINE",NA,"District 22","18/12/2035","Durable"
+"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","03/04/2036","Durable"
+"Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22","03/04/2036","Durable"
 "Tramain","RAULT","FREDERIC","agent d'exploitation","District 22","18/12/2035","Durable"
-"Tramain","ROBERT","LOIC","agent d'exploitation","District 22","18/12/2035","Durable"
 "Tramain","ROBERT","LOIC","agent d'exploitation","District 22","08/10/2031","Durable"
+"Tramain","ROBERT","LOIC","agent d'exploitation","District 22","03/04/2036","Durable"
 "Tramain","ROBERT","VALENTIN","agent d'exploitation","District 22","10/12/2031","Durable"
-"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22",NA,NA
+"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","25/03/2036","Durable"
 "Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA
@@ -497,9 +490,10 @@
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56","29/04/2032","Durable"
 "Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56","29/04/2032","Durable"
 "Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA
-"Vannes","LEVEQUE","YOANN","chef.fe d'équipe","District 56","10/03/2030","Durable"
+"Vannes","LEVEQUE","YOANN","chef equipe d","District 56","10/03/2030","Durable"
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA
+"Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56","29/04/2032","Durable"
 "Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA
