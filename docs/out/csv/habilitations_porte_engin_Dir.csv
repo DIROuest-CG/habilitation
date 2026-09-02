@@ -1,4 +1,23 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
+"Brest","AUTRET","PATRICE","responsable de cei","District 29",NA,NA,NA
+"Brest","BLOCH","ERWAN","responsable d'exploi","District 29",NA,NA,NA
+"Brest","CAMPION","MATTHIAS","agent d'exploitation","District 29",NA,NA,NA
+"Brest","CANY CANIAN","ERIK","agent d'exploitation","District 29",NA,NA,NA
+"Brest","CLOAREC","RONAN","chef.fe d'équipe","District 29",NA,NA,NA
+"Brest","DUCLAUX","JEAN-SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
+"Brest","FERRAPIE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","HALL","ANTHONY","agent d'exploitation","District 29",NA,NA,NA
+"Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","KERMARREC","FLORENT","agent d'exploitation","District 29","Porte-engins _ ACES","25/06/2036","Durable"
+"Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
+"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29",NA,NA,NA
+"Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
+"Brest","LEYER","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
+"Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
+"Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ANDRE","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ANDRE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","ARIBOT","DAVY","agent d'exploitation","District 29",NA,NA,NA
@@ -16,13 +35,14 @@
 "Chateaulin","TROMEUR","DAVID","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Porte-engins _ ACES","15/06/2027","Moins d'1 an"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29",NA,NA,NA
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Porte-engins _ ACES","18/05/2027","Moins d'1 an"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA,NA
@@ -36,7 +56,6 @@
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Porte-engins _ ACES","24/04/2035","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Porte-engins _ ACES","10/07/2035","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -83,24 +102,6 @@
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22",NA,NA,NA
-"Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
-"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","CHUPIN","LOIC","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA,NA
-"Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA,NA
-"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56","Porte-engins _ ACES","06/07/2028","Durable"
-"Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA,NA
-"Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","LE BRAZIDEC","YOANN","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","LE TUTOUR","YANNICK","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","OFFREDO","SAMUEL","responsable d'explo","District 56",NA,NA,NA
-"Locmine","PHILIPPE","JULIEN","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","PICAUD","PIERRE","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","RENAUD","RAPHAEL","responsable de cei","District 56",NA,NA,NA
-"Locmine","SABATIER","BERTRAND","agent d'exploitation","District 56",NA,NA,NA
 "Lorient","AUDEFROY","PIERRE","responsable d'explo","District 56","Porte-engins _ ACES","10/07/2035","Durable"
 "Lorient","BENLAHSEN","OUSSAMA","agent d'exploitation","District 56",NA,NA,NA
 "Lorient","CAURANT","DAVID","chef equipe a","District 56",NA,NA,NA
@@ -152,13 +153,37 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29","Porte-engins _ ACES","15/06/2027","Moins d'1 an"
 "Melgven","PROVOST","ANTHONY","chef.fe de cei","District 29",NA,NA,NA
 "Melgven","RANNOU","BERNARD","responsable d'explo","District 29",NA,NA,NA
 "Melgven","TOUCHARD","NICOLAS","agent d'exploitation","District 29",NA,NA,NA
+"Nantes","BERNARD","JOEL","chef equipe c","District 44",NA,NA,NA
+"Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
+"Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","Porte-engins _ ACES","06/07/2028","Durable"
+"Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA,NA
+"Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA
+"Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","HECHT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","HERVO","BENOIST-CHARLES","chef equipe d","District 44",NA,NA,NA
+"Nantes","LEFORT","DAVID","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","LERAY","GARY","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","LERAY","GREGORY","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","MALESTROIT","FLORIAN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","MAUGAS","DENIS","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","MONNIER","ERIC","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","MOREAU","DAVID","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","PETIT","THIERRY","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","ROBERT","OLIVIER","chef equipe a","District 44",NA,NA,NA
+"Nantes","ROUILLE","JEAN-MICHEL","responsable de cei","District 44",NA,NA,NA
+"Nantes","ROUX","DAVID","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","SAINTE ROSE","AUGUSTE","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","SOILIHI","ASSAD","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","SUZANNE","ALEXANDRE","agent d'exploitation","District 44",NA,NA,NA
 "Pleslin","ANDRIEN","CYRIL","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","CHAHEN","CEDRIC","agent d'exploitation","District 22","Porte-engins _ ACES","12/10/2026","Moins de 6 mois"
 "Pleslin","DIAL","LENAICK","agent  d'exploitati","District 22",NA,NA,NA
@@ -175,7 +200,7 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22","Porte-engins _ ACES","24/04/2035","Durable"
+"Pleslin","ROBERT","CEDRIC",NA,"District 22","Porte-engins _ ACES","24/04/2035","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35",NA,NA,NA
@@ -254,7 +279,6 @@
 "Rostrenen","HENAFF","LUC","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22",NA,NA,NA
@@ -337,29 +361,11 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","VORIN","JEROME","agent d'exploitation","District 35",NA,NA,NA
-"Brest","AUTRET","PATRICE","responsable de cei","District 29",NA,NA,NA
-"Brest","BLOCH","ERWAN","responsable d'exploi","District 29",NA,NA,NA
-"Brest","CAMPION","MATTHIAS","agent d'exploitation","District 29",NA,NA,NA
-"Brest","CANY CANIAN","ERIK","agent d'exploitation","District 29",NA,NA,NA
-"Brest","CLOAREC","RONAN","chef.fe d'équipe","District 29",NA,NA,NA
-"Brest","DUCLAUX","JEAN-SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
-"Brest","FERRAPIE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","HALL","ANTHONY","agent d'exploitation","District 29",NA,NA,NA
-"Brest","KERJEAN","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","KERMARREC","FLORENT","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LAID","BRUNO","responsable d'explo","District 29",NA,NA,NA
-"Brest","LAUMONIER","PHILIPPE","responsable d'explo","District 29",NA,NA,NA
-"Brest","LE BERRE","MICKAEL","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LE GUEN","SAMUEL","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LEBUFFE","GUILLAUME","agent d'exploitation","District 29",NA,NA,NA
-"Brest","LEYER","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","PUT","SEBASTIEN","agent d'exploitation","District 29",NA,NA,NA
-"Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
-"Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Chateaubourg","BESNIER","ANTOINE","chef equipe c","District 35",NA,NA,NA
 "Chateaubourg","BESNIER","JEAN-LUC","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","BOISSEAU","GUENOLE","agent d'exploitation","District 35",NA,NA,NA
@@ -379,10 +385,11 @@
 "Chateaubourg","PREAUCHAT","SEBASTIEN","agent d'exploitation","District 35",NA,NA,NA
 "Chateaubourg","TESNIERE","JACQUES","agent d'exploitation","District 35",NA,NA,NA
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44",NA,NA,NA
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44",NA,NA,NA
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
@@ -393,18 +400,17 @@
 "Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
@@ -423,6 +429,22 @@
 "Heric","POUILLOUX","FABRICE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","RINCE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Heric","TALABAS","MARC","chef equipe b","District 44",NA,NA,NA
+"Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
+"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","CHUPIN","LOIC","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA,NA
+"Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA,NA
+"Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA,NA
+"Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","LE BRAZIDEC","YOANN","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","LE TUTOUR","YANNICK","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","OFFREDO","SAMUEL","responsable d'explo","District 56",NA,NA,NA
+"Locmine","PHILIPPE","JULIEN","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","PICAUD","PIERRE","agent d'exploitation","District 56",NA,NA,NA
+"Locmine","RENAUD","RAPHAEL","responsable de cei","District 56",NA,NA,NA
+"Locmine","SABATIER","BERTRAND","agent d'exploitation","District 56",NA,NA,NA
 "Mayenne","ANSQUER","FREDERIC","responsable d'explo","District 35",NA,NA,NA
 "Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BORDIER","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -433,36 +455,11 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35",NA,NA,NA
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35",NA,NA,NA
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","QUELLIER","EMMANUEL","responsable de cei","District 35",NA,NA,NA
 "Mayenne","TURPIN","SEBASTIEN","agent d'exploitation","District 35",NA,NA,NA
-"Nantes","BERNARD","JOEL","chef equipe c","District 44",NA,NA,NA
-"Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
-"Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA,NA
-"Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA
-"Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","HECHT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","HERVO","BENOIST-CHARLES","chef equipe d","District 44",NA,NA,NA
-"Nantes","LEFORT","DAVID","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","LERAY","GARY","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","LERAY","GREGORY","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","MALESTROIT","FLORIAN","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","MAUGAS","DENIS","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","MONNIER","ERIC","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","MOREAU","DAVID","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","PETIT","THIERRY","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","ROBERT","OLIVIER","chef equipe a","District 44",NA,NA,NA
-"Nantes","ROUILLE","JEAN-MICHEL","responsable de cei","District 44",NA,NA,NA
-"Nantes","ROUX","DAVID","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","SAINTE ROSE","AUGUSTE","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","SOILIHI","ASSAD","agent d'exploitation","District 44",NA,NA,NA
-"Nantes","SUZANNE","ALEXANDRE","agent d'exploitation","District 44",NA,NA,NA
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35",NA,NA,NA
@@ -482,7 +479,6 @@
 "St Aubin du Cormier","TESSIER","MICKAEL","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","TUNIER","ERIC","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","VALLEE","JEAN-LUC","agent d'exploitation","District 35",NA,NA,NA
-"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
@@ -492,7 +488,6 @@
 "Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA,NA
@@ -500,6 +495,7 @@
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA,NA
+"Vannes","NIZAN","FABIEN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA,NA
@@ -511,3 +507,4 @@
 "Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA
+"Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56",NA,NA,NA

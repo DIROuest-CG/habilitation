@@ -35,36 +35,36 @@
 "Chateaulin","TROUCHARD","JEAN-MARC",NA,"District 29","Chariot élévateur- téléscopique_ ACES","17/10/2030","Durable"
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","23/10/2030","Durable"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","23/10/2030","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","23/10/2030","Durable"
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29","Chariot élévateur- téléscopique_ ACES","12/10/2028","Durable"
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
-"Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA,NA
-"Guingamp","DUBUS","MAXIME","chef equipe a","District 22",NA,NA,NA
+"Guingamp","COTTON","VALERIE","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","08/04/2031","Durable"
+"Guingamp","DUBUS","MAXIME","chef equipe a","District 22","Chariot élévateur- téléscopique_ ACES","08/04/2031","Durable"
 "Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
 "Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
+"Guingamp","LEURANGUER","THIERRY",NA,"District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Chariot élévateur- téléscopique_ ACES","05/09/2030","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","23/10/2030","Durable"
 "Guingamp","PATCHE","JIMMY","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
 "Guingamp","PEROU","CHRISTOPHE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","PINARD","ERWAN","chef equipe b","District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
-"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22",NA,NA,NA
+"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","08/04/2031","Durable"
 "Guingamp","SIMON","JEROME","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","Chariot élévateur- téléscopique_ ACES","24/03/2027","Moins d'1 an"
@@ -107,8 +107,8 @@
 "Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
 "Le Perray","HAMON","ROMAIN","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
 "Le Perray","HERVIOU","RONAN","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","11/01/2029","Durable"
-"Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22","CACES R482 cat. F _ engins de manutention TT","04/06/2030","Durable"
 "Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
+"Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22","CACES R482 cat. F _ engins de manutention TT","04/06/2030","Durable"
 "Le Perray","JONQUET","HERVE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","11/01/2029","Durable"
 "Le Perray","LHOMMEAU","JACQUES","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","11/01/2029","Durable"
 "Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22",NA,NA,NA
@@ -118,7 +118,7 @@
 "Le Perray","PERRIN","CYRILLE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
 "Le Perray","PICQUET","FABIEN","responsable d'explo","District 22",NA,NA,NA
 "Le Perray","PINARD","EMILIE","responsable d'explo","District 22",NA,NA,NA
-"Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22",NA,NA,NA
+"Le Perray","PRISE","GUILLAUME","responsable d'exploi","District 22","Chariot élévateur- téléscopique_ ACES","08/04/2031","Durable"
 "Le Perray","RASSELET","ANTOINE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","15/02/2029","Durable"
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","11/01/2029","Durable"
@@ -160,7 +160,6 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","27/11/2029","Durable"
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","27/11/2029","Durable"
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","27/11/2029","Durable"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35",NA,NA,NA
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -170,6 +169,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44",NA,NA,NA
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44","Chariot élévateur- téléscopique_ ACES","10/01/2030","Durable"
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA
@@ -201,12 +201,12 @@
 "Pleslin","MONNIER","ARNAUD","chef equipe b","District 22",NA,NA,NA
 "Pleslin","NAVIER","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","PHELEP","ERIC","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","PROVOST","JULIEN","agent d'exploitation","District 22",NA,NA,NA
+"Pleslin","PROVOST","JULIEN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","08/04/2031","Durable"
 "Pleslin","RAMOND","FABIEN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","11/01/2029","Durable"
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
+"Pleslin","ROBERT","CEDRIC",NA,"District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Rennes","BLOT","BENOIT","agent d'exploitation","District 35","Chariot élévateur- téléscopique_ ACES","13/10/2028","Durable"
 "Rennes","BOSCHER","FREDERIC","chef equipe a","District 35",NA,NA,NA
@@ -243,7 +243,6 @@
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LESAUCE","GWENDAL",NA,"District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
@@ -274,19 +273,48 @@
 "Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
 "Tramain","CHOUANNIERE","ERIC","responsable d'explo","District 22",NA,NA,NA
 "Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
-"Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
+"Tramain","DUBUS","THIBAULT","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
 "Tramain","ECOBICHON","PATRICE","responsable de cei","District 22","Chariot élévateur- téléscopique_ ACES","18/06/2030","Durable"
 "Tramain","FOUERE","QUENTIN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
 "Tramain","LANDRIN","SEBASTIEN","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
 "Tramain","LE COZIC","SEBASTIEN","chef equipe a","District 22",NA,NA,NA
-"Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
-"Tramain","MORIN","XAVIER","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
-"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22",NA,NA,NA
-"Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
+"Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
+"Tramain","MORIN","XAVIER","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
+"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
+"Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
 "Tramain","RAULT","FREDERIC","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","19/06/2030","Durable"
-"Tramain","ROBERT","LOIC","agent d'exploitation","District 22",NA,NA,NA
+"Tramain","ROBERT","LOIC","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
 "Tramain","ROBERT","VALENTIN","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","28/06/2029","Durable"
-"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","26/09/2030","Durable"
+"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","Chariot élévateur- téléscopique_ ACES","09/04/2031","Durable"
+"Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
+"Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA,NA
+"Vannes","LEVEQUE","YOANN","chef equipe d","District 56",NA,NA,NA
+"Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA,NA
+"Vannes","NIZAN","FABIEN","agent d'exploitation","District 56","Chariot élévateur- téléscopique_ ACES","07/11/2028","Durable"
+"Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA,NA
+"Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","PIQUET","DOMINIQUE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","PLUNIAN","PATRICE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","POTIER","VINCENT","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","RAOULT","ROLAND","adjoint.e au chef","District 56",NA,NA,NA
+"Vannes","REPAIN","MARVIN","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
+"Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA
+"Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56","Chariot élévateur- téléscopique_ ACES","29/04/2030","Durable"
 "Bain de Bretagne","AMAUCE","FREDERIC","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35",NA,NA,NA
@@ -298,6 +326,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35",NA,NA,NA
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
@@ -322,10 +351,11 @@
 "Brest","RONCERAY","CHRISTOPHE","agent d'exploitation","District 29",NA,NA,NA
 "Brest","VALLEE","STEPHANE","agent d'exploitation","District 29",NA,NA,NA
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44",NA,NA,NA
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44",NA,NA,NA
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
@@ -336,12 +366,12 @@
 "Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA,NA
@@ -349,12 +379,10 @@
 "Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56",NA,NA,NA
-"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA,NA
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA,NA
-"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA,NA
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
@@ -389,7 +417,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA
@@ -486,32 +513,3 @@
 "St Thegonnec","PROUFF","JEAN RENE","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","SIMON","GERARD","chef equipe b","District 29",NA,NA,NA
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29",NA,NA,NA
-"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
-"Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA,NA
-"Vannes","LEVEQUE","YOANN","chef equipe d","District 56",NA,NA,NA
-"Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA,NA
-"Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA,NA
-"Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","PIQUET","DOMINIQUE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","PLUNIAN","PATRICE","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","POTIER","VINCENT","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","RAOULT","ROLAND","adjoint.e au chef","District 56",NA,NA,NA
-"Vannes","REPAIN","MARVIN","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
-"Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA

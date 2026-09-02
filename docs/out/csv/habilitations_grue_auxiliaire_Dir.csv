@@ -10,6 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","Grues auxiliaires _ ACES","10/03/2027","Moins d'1 an"
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICKAEL",NA,"District 35","Grues auxiliaires _ ACES","10/03/2027","Moins d'1 an"
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","Grues auxiliaires _ ACES","12/06/2030","Durable"
@@ -51,8 +52,8 @@
 "Chateaubourg","JEANNE","QUENTIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","11/04/2029","Durable"
 "Chateaubourg","JEULAND","PAUL","agent d'exploitation","District 35","Grues auxiliaires _ ACES","15/10/2026","Moins de 6 mois"
 "Chateaubourg","MICAULT","JEAN-PAUL","agent d'exploitation","District 35",NA,NA,NA
-"Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","CACES R490 : grues de chargement","12/01/2033","Durable"
 "Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","Grues auxiliaires _ ACES","15/10/2026","Moins de 6 mois"
+"Chateaubourg","MICAULT","JEAN PAUL",NA,"District 35","CACES R490 : grues de chargement","12/01/2033","Durable"
 "Chateaubourg","PASQUALIN","JEAN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","13/03/2030","Durable"
 "Chateaubourg","PREAUCHAT","SEBASTIEN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","15/10/2026","Moins de 6 mois"
 "Chateaubourg","TESNIERE","JACQUES","agent d'exploitation","District 35",NA,NA,NA
@@ -74,38 +75,65 @@
 "Chateaulin","TROUCHARD","JEAN-MARC",NA,"District 29","Grues auxiliaires _ ACES","06/02/2031","Durable"
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","MORIO","SAMUEL",NA,"District 29","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","26/11/2030","Durable"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/11/2030","Durable"
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29","Grues auxiliaires _ ACES","19/01/2029","Durable"
+"Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","Grues auxiliaires _ ACES","30/11/2028","Durable"
+"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44",NA,NA,NA
+"Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
+"Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44",NA,NA,NA
+"Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
+"Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
+"Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
+"Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
 "Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
-"Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA,NA
+"Guingamp","COTTON","VALERIE","responsable d'explo","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Guingamp","DUBUS","MAXIME","chef equipe a","District 22",NA,NA,NA
 "Guingamp","LE BARS","NICOLAS","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LE COCQUEN","MICKAEL","agent d'exploitation","District 22","CACES R490 : grues de chargement","17/09/2034","Durable"
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","30/11/2028","Durable"
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
+"Guingamp","LEURANGUER","THIERRY",NA,"District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN ","HERVE",NA,"District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","PATCHE","JIMMY","agent d'exploitation","District 22","Grues auxiliaires _ ACES","30/11/2028","Durable"
 "Guingamp","PEROU","CHRISTOPHE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","PINARD","ERWAN","chef equipe b","District 22","Grues auxiliaires _ ACES","26/10/2028","Durable"
-"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","CACES R490 : grues de chargement","04/03/2030","Durable"
 "Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
+"Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22","CACES R490 : grues de chargement","04/03/2030","Durable"
 "Guingamp","SIMON","JEROME","agent d'exploitation","District 22",NA,NA,NA
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","Grues auxiliaires _ ACES","30/11/2028","Durable"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","Grues auxiliaires _ ACES","30/11/2028","Durable"
@@ -165,12 +193,10 @@
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","30/11/2028","Durable"
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","Grues auxiliaires _ ACES","05/12/2028","Durable"
-"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56","Grues auxiliaires _ ACES","07/12/2027","Durable"
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56","Grues auxiliaires _ ACES","07/12/2027","Durable"
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56","CACES R490 : grues de chargement","10/01/2033","Durable"
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56","Grues auxiliaires _ ACES","05/04/2029","Durable"
-"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56","Grues auxiliaires _ ACES","07/12/2027","Durable"
 "Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56","Grues auxiliaires _ ACES","07/12/2027","Durable"
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56","Grues auxiliaires _ ACES","05/04/2029","Durable"
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56","Grues auxiliaires _ ACES","07/12/2027","Durable"
@@ -209,22 +235,22 @@
 "Lorient","TILLIOLE","PATRICK","agent d'exploitation","District 56",NA,NA,NA
 "Lorient","TISSEYRE","ALAIN","chef.fe de cei","District 56",NA,NA,NA
 "Lorient","YVON","CYRIL","agent d'exploitation","District 56","Grues auxiliaires _ ACES","19/11/2030","Durable"
-"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","ALNO","CEDRIC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Loudeac","BURBAN","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
 "Loudeac","COTBREIL","TONY","chef equipe a","District 22","CACES R490 : grues de chargement","10/01/2033","Durable"
 "Loudeac","CRAMBERT","DOMINIQUE","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","DUMONT","STEPHANE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","10/12/2026","Moins de 6 mois"
 "Loudeac","GUILLOU","VINCENT","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
-"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","JOUNAY","MICKAEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Loudeac","LE MAY","VALENTIN","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","LE ROUX-FLAGEUL","DAVID","responsable d'explo","District 22",NA,NA,NA
 "Loudeac","QUILLERE","ARNAUD","chef.fe de cei","District 22",NA,NA,NA
 "Loudeac","RETHORE","MIKAEL","agent d'exploitation","District 22",NA,NA,NA
 "Loudeac","ROUAUX","LUDOVIC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
 "Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22",NA,NA,NA
-"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22",NA,NA,NA
+"Loudeac","URVOIX","JOEL","agent d'exploitation","District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Mayenne","ANSQUER","FREDERIC","responsable d'explo","District 35",NA,NA,NA
-"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","18/11/2030","Durable"
+"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BORDIER","SYLVAIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","11/04/2029","Durable"
 "Mayenne","BOUTELOUP","WILLIAM","agent d'exploitation","District 35","Grues auxiliaires _ ACES","18/11/2030","Durable"
 "Mayenne","BRUNET","STEPHANE","agent d'exploitation","District 35",NA,NA,NA
@@ -233,7 +259,6 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","18/11/2030","Durable"
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35","Grues auxiliaires _ ACES","18/11/2030","Durable"
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35","Grues auxiliaires _ ACES","18/11/2030","Durable"
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","Grues auxiliaires _ ACES","11/04/2029","Durable"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","Grues auxiliaires _ ACES","13/03/2030","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -250,7 +275,7 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
+"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Grues auxiliaires _ ACES","21/02/2030","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","Grues auxiliaires _ ACES","04/07/2030","Durable"
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29","Grues auxiliaires _ ACES","04/07/2030","Durable"
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA
@@ -261,6 +286,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","Grues auxiliaires _ ACES","07/12/2027","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA,NA
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA
@@ -297,27 +323,26 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","13/09/2029","Durable"
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35",NA,NA,NA
-"Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","BLOT","MICHAEL","agent d'exploitation","District 35","Grues auxiliaires _ ACES","12/06/2030","Durable"
-"Pleumeleuc","BOISNARD","STANISLAS","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","BOISNARD","STANISLAS","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","BOMPAIS","STEPHANE","responsable d'exploi","District 35","Grues auxiliaires _ ACES","16/06/2027","Moins d'1 an"
 "Pleumeleuc","BOULANGER","GUILLAUME","agent d'exploitation","District 35","Grues auxiliaires _ ACES","02/02/2028","Durable"
 "Pleumeleuc","BROQUET","FLORIAN","agent d'exploitation","District 35",NA,NA,NA
-"Pleumeleuc","CERDAN","EMMANUEL","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","CERDAN","EMMANUEL","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","CHEBASSIER","NICOLAS","responsable de cei","District 35",NA,NA,NA
-"Pleumeleuc","CHEVILLON","ALAIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","CHEVILLON","ALAIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","CIANCI","OLIVIER","agent d'exploitation","District 35","Grues auxiliaires _ ACES","10/03/2027","Moins d'1 an"
 "Pleumeleuc","COIGNARD","REGIS","chef equipe b","District 35",NA,NA,NA
-"Pleumeleuc","DELAHAYE","PATRICK","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","DELAHAYE","PATRICK","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","FRIN","WILFRIED","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","GATEL","ERIC","agent d'exploitation","District 35","Grues auxiliaires _ ACES","02/02/2028","Durable"
 "Pleumeleuc","GERVAIS","HUBERT","agent d'exploitation","District 35","Grues auxiliaires _ ACES","10/03/2027","Moins d'1 an"
 "Pleumeleuc","HUBERT","STEPHANE","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","L'HOSTIS","MYRIAM","adjoint.e au chef","District 35",NA,NA,NA
-"Pleumeleuc","LAMBERT","JEAN-MICHEL","chef equipe c","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","LAMBERT","JEAN-MICHEL","chef equipe c","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Pleumeleuc","LAUNAY","DAVID","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","LE MAGUET","PIERRE","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","MOIZAN","MARC","agent d'exploitation","District 35","Grues auxiliaires _ ACES","10/03/2027","Moins d'1 an"
@@ -325,7 +350,7 @@
 "Pleumeleuc","RONSOUX","MICKAEL","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","SAID","YOUSSOUF","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","TABUREL","JEAN-PHILIPPE","chef equipe e","District 35",NA,NA,NA
-"Pleumeleuc","TABUREL","JOSSELIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins d'1 an"
+"Pleumeleuc","TABUREL","JOSSELIN","agent d'exploitation","District 35","Grues auxiliaires _ ACES","24/02/2027","Moins de 6 mois"
 "Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","Grues auxiliaires _ ACES","18/06/2030","Durable"
 "Ploermel","BESSY","FRANCK","agent d'exploitation","District 56","Grues auxiliaires _ ACES","18/06/2030","Durable"
 "Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","CACES R490 : grues de chargement","10/01/2033","Durable"
@@ -375,8 +400,8 @@
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Rostrenen","HENAFF","LUC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","20/03/2029","Durable"
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
+"Rostrenen","L'HERMITTE","SEBASTIEN",NA,"District 22","Grues auxiliaires _ ACES","28/05/2031","Durable"
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22",NA,NA,NA
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22",NA,NA,NA
@@ -390,8 +415,8 @@
 "Savenay","BOULAY","CHRISTOPHE","agent d'exploitation","District 44",NA,NA,NA
 "Savenay","BRASSART","GREGORY","agent d'exploitation","District 44",NA,NA,NA
 "Savenay","BRASSART","GREGORY-JR",NA,"District 44","Grues auxiliaires _ ACES","05/04/2029","Durable"
-"Savenay","CHARLIER","ROMAIN","agent d'exploitation","District 44","CACES R490 : grues de chargement","10/01/2033","Durable"
 "Savenay","CHARLIER","ROMAIN","agent d'exploitation","District 44","Grues auxiliaires _ ACES","08/04/2027","Moins d'1 an"
+"Savenay","CHARLIER","ROMAIN","agent d'exploitation","District 44","CACES R490 : grues de chargement","10/01/2033","Durable"
 "Savenay","DUVAL","JEAN","agent d'exploitation","District 44",NA,NA,NA
 "Savenay","ETIENNE","RAPHAEL","agent d'exploitation","District 44","Grues auxiliaires _ ACES","08/04/2027","Moins d'1 an"
 "Savenay","FORTUNE","GREGORY","chef equipe c","District 44","Grues auxiliaires _ ACES","19/03/2029","Durable"
@@ -472,7 +497,7 @@
 "Tramain","ROBERT","LOIC","agent d'exploitation","District 22","CACES R490 : grues de chargement","08/10/2031","Durable"
 "Tramain","ROBERT","VALENTIN","agent d'exploitation","District 22","Grues auxiliaires _ ACES","10/12/2026","Moins de 6 mois"
 "Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","Grues auxiliaires _ ACES","25/03/2031","Durable"
-"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
+"Vannes","BLANCHET","SYLVAIN",NA,"District 56","Grues auxiliaires _ ACES","18/11/2030","Durable"
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
@@ -482,7 +507,6 @@
 "Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
-"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA,NA
@@ -490,6 +514,7 @@
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA,NA
+"Vannes","NIZAN","FABIEN","agent d'exploitation","District 56","Grues auxiliaires _ ACES","18/11/2026","Moins de 6 mois"
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56","Grues auxiliaires _ ACES","29/04/2027","Moins d'1 an"
 "Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA,NA
@@ -501,29 +526,4 @@
 "Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA
-"Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44",NA,NA,NA
-"Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
-"Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44",NA,NA,NA
-"Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
-"Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
-"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
-"Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
-"Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA,NA
+"Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56","Grues auxiliaires _ ACES","18/11/2026","Moins de 6 mois"

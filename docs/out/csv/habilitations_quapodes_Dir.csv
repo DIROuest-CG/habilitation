@@ -10,6 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","QUAPODES recyclage","27/04/2028","Durable"
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
@@ -68,22 +69,24 @@
 "Chateaulin","TROMEUR","DAVID","agent d'exploitation","District 29",NA,NA,NA
 "Chateaulin","TROUCHARD","JEAN MARC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","ALLOUET","CHRISTOPHE","agent d'exploitation","District 29","QUAPODES","05/05/2028","Durable"
-"Chateauneuf du Faou","BOUDER","PASCAL","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","BOULOUARD","CHRISTOPHE","agent exploitation","District 29","QUAPODES","27/11/2030","Durable"
 "Chateauneuf du Faou","CADOU","JEAN-RENE","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COADOUR","ERIC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","COUILLET","STEPHANE","chef equipe a","District 29",NA,NA,NA
+"Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29","QUAPODES","27/11/2030","Durable"
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29",NA,NA,NA
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","QUAPODES","16/11/2028","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","QUAPODES","23/05/2030","Durable"
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29",NA,NA,NA
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44","QUAPODES","19/03/2031","Durable"
-"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","QUAPODES","03/07/2030","Durable"
+"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","QUAPODES","15/06/2027","Moins d'1 an"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","QUAPODES recyclage","15/01/2030","Durable"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","QUAPODES recyclage","15/01/2030","Durable"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","QUAPODES recyclage","14/03/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44","QUAPODES recyclage","30/05/2029","Durable"
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
@@ -95,18 +98,18 @@
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44","QUAPODES recyclage","29/06/2028","Durable"
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
 "Goulaine","D-ANGELO","CELIA",NA,"District 44","QUAPODES","05/02/2031","Durable"
-"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44","QUAPODES","Compétence exigée","Non renseignée"
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44","QUAPODES recyclage","14/03/2028","Durable"
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44","QUAPODES","21/05/2031","Durable"
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44","QUAPODES","19/03/2031","Durable"
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44","QUAPODES","22/06/2028","Durable"
-"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22",NA,NA,NA
+"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
+"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
+"Guingamp","BOSCHAT","BRUNO","responsable d'explo","District 22","QUAPODES","21/05/2031","Durable"
 "Guingamp","COLLIN","MICHEL","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","COTTON","VALERIE","responsable d'explo","District 22",NA,NA,NA
 "Guingamp","DUBUS","MAXIME","chef equipe a","District 22",NA,NA,NA
@@ -115,7 +118,6 @@
 "Guingamp","LE GAC","DOMINIQUE","responsable de cei","District 22",NA,NA,NA
 "Guingamp","LE GALL","YANN","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LE GARS","STEPHANE","agent d'exploitation","District 22","QUAPODES","19/03/2029","Durable"
-"Guingamp","LEURANGUER","THIERRY","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","LOSSOUARN","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","MOISAN","ANTHONY","agent d'exploitation","District 22","QUAPODES","27/03/2030","Durable"
 "Guingamp","PATCHE","JIMMY","agent d'exploitation","District 22","QUAPODES","02/06/2028","Durable"
@@ -123,11 +125,10 @@
 "Guingamp","PINARD","ERWAN","chef equipe b","District 22",NA,NA,NA
 "Guingamp","PRIGENT","YOHANN","agent d'exploitation","District 22",NA,NA,NA
 "Guingamp","SIMON","JEROME","agent d'exploitation","District 22",NA,NA,NA
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","QUAPODES","03/07/2030","Durable"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44","QUAPODES","19/03/2031","Durable"
 "Heric","BECHADE","DAVID","chef equipe a","District 44","QUAPODES recyclage","30/05/2029","Durable"
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Heric","ELFGANG","TONY","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
+"Heric","ELFGANG","TONY","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
 "Heric","GARAUD","FREDERIK","agent d'exploitation","District 44","QUAPODES","04/10/2027","Durable"
 "Heric","GAUTRON","BAPTISTE",NA,"District 44","QUAPODES","23/05/2030","Durable"
 "Heric","GUEMENE","OLIVIER","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
@@ -160,11 +161,11 @@
 "La Seguiniere","VINCENT","OLIVIER","responsable d'explo","District 44","QUAPODES recyclage","10/12/2026","Moins de 6 mois"
 "Le Perray","BERNARD","FRANCK","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","COLLEU","BERTRAND","agent d'exploitation","District 22",NA,NA,NA
-"Le Perray","DESVIGNE","BRIEG","agent d'exploitation","District 22",NA,NA,NA
+"Le Perray","DESVIGNE","BRIEG","agent d'exploitation","District 22","QUAPODES","21/05/2031","Durable"
 "Le Perray","DUFOURD","MICKAEL","ajoint chef cei","District 22",NA,NA,NA
 "Le Perray","DUROS","CHRISTOPHE","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","GLATRE","MICKAEL","agent d'exploitation","District 22",NA,NA,NA
-"Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
+"Le Perray","GUILLERMIC","SEBASTIEN","agent d'exploitation","District 22","QUAPODES","21/05/2031","Durable"
 "Le Perray","HAMON","ROMAIN","responsable d'explo","District 22",NA,NA,NA
 "Le Perray","HERVIOU","RONAN","responsable d'explo","District 22",NA,NA,NA
 "Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
@@ -182,13 +183,11 @@
 "Le Perray","SAUVAITRE","JULIEN","agent d'exploitation","District 22","QUAPODES","21/11/2029","Durable"
 "Le Perray","THERIN","CHRISTOPHE","agent d'exploitation","District 22",NA,NA,NA
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
-"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","QUAPODES","23/06/2026","Moins de 6 mois"
-"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56","QUAPODES","23/06/2026","Moins de 6 mois"
+"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA,NA
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA,NA
-"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA,NA
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
@@ -242,7 +241,7 @@
 "Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22","QUAPODES","18/09/2030","Durable"
 "Loudeac","URVOIX","JOEL","agent d'exploitation","District 22","QUAPODES","18/09/2030","Durable"
 "Mayenne","ANSQUER","FREDERIC","responsable d'explo","District 35",NA,NA,NA
-"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35","QUAPODES","06/02/2030","Durable"
+"Mayenne","BLANCHET","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BORDIER","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BOUTELOUP","WILLIAM","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","BRUNET","STEPHANE","agent d'exploitation","District 35",NA,NA,NA
@@ -251,7 +250,6 @@
 "Mayenne","DENIS","SYLVAIN","agent d'exploitation","District 35",NA,NA,NA
 "Mayenne","ESNAULT","JEAN-BERNARD","chef equipe c","District 35",NA,NA,NA
 "Mayenne","GOUPIL","DENIS","agent d'exploitation","District 35",NA,NA,NA
-"Mayenne","GUENAND","FRANCK","agent d'exploitation","District 35","QUAPODES","27/03/2030","Durable"
 "Mayenne","LAVALEUR","VIRGINIE","agent d'exploitation","District 35","QUAPODES","16/11/2026","Moins de 6 mois"
 "Mayenne","LERAY","BRUNO","chef equipe a","District 35","QUAPODES","23/05/2030","Durable"
 "Mayenne","MARTIN-GUIBERT","ROMAIN","agent d'exploitation","District 35",NA,NA,NA
@@ -268,7 +266,7 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT","agent d'exploitation","District 29","QUAPODES","22/06/2027","Durable"
+"Melgven","LINGUENHELD","VINCENT",NA,"District 29","QUAPODES","22/06/2027","Moins d'1 an"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29","QUAPODES","30/11/2027","Durable"
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29","QUAPODES","16/11/2026","Moins de 6 mois"
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA
@@ -279,6 +277,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44","QUAPODES recyclage","28/02/2028","Durable"
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44","QUAPODES","23/05/2030","Durable"
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44","QUAPODES","19/03/2031","Durable"
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44",NA,NA,NA
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44","QUAPODES","Compétence exigée","Non renseignée"
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44","QUAPODES recyclage","14/03/2028","Durable"
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44","QUAPODES recyclage","28/02/2028","Durable"
@@ -318,7 +317,6 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","ROBERT","CEDRIC","agent d'exploitation","District 22",NA,NA,NA
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35",NA,NA,NA
@@ -349,7 +347,7 @@
 "Pleumeleuc","TABUREL","JOSSELIN","agent d'exploitation","District 35",NA,NA,NA
 "Ploermel","AUBRY","STEPHANE","chef equipe b","District 56",NA,NA,NA
 "Ploermel","BESSY","FRANCK","agent d'exploitation","District 56","QUAPODES","27/03/2030","Durable"
-"Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","QUAPODES","23/06/2026","Moins de 6 mois"
+"Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","COURANT","ANTHONY","responsable de cei","District 56",NA,NA,NA
 "Ploermel","DACQUAIT","CHRISTOPHE","chef equipe a","District 56",NA,NA,NA
 "Ploermel","FALIGOT-MOREL","GUILLAUME","agent d'exploitation","District 56","QUAPODES","11/04/2029","Durable"
@@ -397,7 +395,6 @@
 "Rostrenen","HENAFF","LUC","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","JOULIN","JEAN FRANCOIS","chef equipe b","District 22",NA,NA,NA
 "Rostrenen","L HERMITTE","SEBASTIEN","agent d'exploitation","District 22",NA,NA,NA
-"Rostrenen","LE GOUARD","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LE MOUEL","CHRISTOPHE","responsable de cei","District 22","QUAPODES","27/11/2030","Durable"
 "Rostrenen","LE SAUCE","GWENDAL","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","LOSSOUARN","YANNICK","agent d'exploitation","District 22","QUAPODES","18/09/2030","Durable"
@@ -414,8 +411,8 @@
 "Savenay","DUVAL","JEAN","agent d'exploitation","District 44","QUAPODES","27/03/2030","Durable"
 "Savenay","ETIENNE","RAPHAEL","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
 "Savenay","FORTUNE","GREGORY","chef equipe c","District 44","QUAPODES","14/03/2030","Durable"
-"Savenay","GAGNE","FABRICE","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Savenay","GUILLERM","PHILIPPE","chef equipe d","District 44","QUAPODES","Compétence exigée","Non renseignée"
+"Savenay","GAGNE","FABRICE","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
+"Savenay","GUILLERM","PHILIPPE","chef equipe d","District 44","QUAPODES recyclage","10/06/2031","Durable"
 "Savenay","LECOMTE","SEBASTIEN","agent d'exploitation","District 44","QUAPODES","27/03/2030","Durable"
 "Savenay","LEGENTILHOMME","YANN","agent d'exploitation","District 44","QUAPODES","14/03/2030","Durable"
 "Savenay","LEROUX","DENIS","agent d'exploitation","District 44","QUAPODES","14/03/2030","Durable"
@@ -431,8 +428,8 @@
 "Savenay","PINARD","SEBASTIEN","chef equipe b","District 44","QUAPODES","14/03/2030","Durable"
 "Savenay","SALLIOT","YANNICK","agent d'exploitation","District 44","QUAPODES","15/06/2027","Moins d'1 an"
 "Savenay","SIMON","PASCAL","responsable de cei","District 44","QUAPODES","03/07/2030","Durable"
-"Savenay","THOMAS","FRANCK","chef equipe a","District 44","QUAPODES","Compétence exigée","Non renseignée"
-"Savenay","TREHIN","ARNAUD","agent d'exploitation","District 44","QUAPODES","Compétence exigée","Non renseignée"
+"Savenay","THOMAS","FRANCK","chef equipe a","District 44","QUAPODES recyclage","10/06/2031","Durable"
+"Savenay","TREHIN","ARNAUD","agent d'exploitation","District 44","QUAPODES recyclage","10/06/2031","Durable"
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35",NA,NA,NA
@@ -472,7 +469,7 @@
 "St Thegonnec","PROUFF","JEAN RENE","agent d'exploitation","District 29",NA,NA,NA
 "St Thegonnec","SIMON","GERARD","chef equipe b","District 29",NA,NA,NA
 "St Thegonnec","VINCENT","JOHANN","chef equipe d","District 29","QUAPODES","16/11/2027","Durable"
-"Tramain","BELNA","JEROME","agent d'exploitation","District 22",NA,NA,NA
+"Tramain","BELNA","JEROME","agent d'exploitation","District 22","QUAPODES recyclage","02/12/2026","Moins de 6 mois"
 "Tramain","BOUVIER","PATRICE","agent d'exploitation","District 22",NA,NA,NA
 "Tramain","CHOUANNIERE","ERIC","responsable d'explo","District 22",NA,NA,NA
 "Tramain","DONNE","PHILIPPE","agent d'exploitation","District 22",NA,NA,NA
@@ -483,23 +480,22 @@
 "Tramain","LE COZIC","SEBASTIEN","chef equipe a","District 22",NA,NA,NA
 "Tramain","LEBRETON","STEPHANE","agent d'exploitation","District 22","QUAPODES","18/09/2030","Durable"
 "Tramain","MORIN","XAVIER","agent d'exploitation","District 22",NA,NA,NA
-"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","QUAPODES","16/11/2026","Moins de 6 mois"
+"Tramain","OFFRET","JONATHAN","agent d'exploitation","District 22","QUAPODES","21/05/2031","Durable"
 "Tramain","PRENVEILLE","NOAM","responsable d'explo","District 22",NA,NA,NA
 "Tramain","RAULT","FREDERIC","agent d'exploitation","District 22","QUAPODES","23/05/2030","Durable"
 "Tramain","ROBERT","LOIC","agent d'exploitation","District 22","QUAPODES","27/11/2030","Durable"
 "Tramain","ROBERT","VALENTIN","agent d'exploitation","District 22","QUAPODES recyclage","01/12/2027","Durable"
-"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22",NA,NA,NA
-"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
+"Tramain","SOUVRE","ERIC","agent d'exploitation","District 22","QUAPODES","21/05/2031","Durable"
+"Vannes","BLANCHET","SYLVAIN",NA,"District 56","QUAPODES","06/02/2030","Durable"
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56","QUAPODES","19/03/2029","Durable"
-"Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56","QUAPODES","23/06/2026","Moins de 6 mois"
+"Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56","QUAPODES","15/06/2027","Moins d'1 an"
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA,NA
@@ -507,6 +503,7 @@
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA,NA
+"Vannes","NIZAN","FABIEN","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","PINARD","CLEMENT","agent d'exploitation","District 56","QUAPODES","19/03/2029","Durable"
@@ -518,3 +515,4 @@
 "Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA
+"Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56",NA,NA,NA
