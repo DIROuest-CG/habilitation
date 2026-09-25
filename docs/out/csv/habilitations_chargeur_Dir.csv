@@ -80,7 +80,7 @@
 "Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29",NA,NA
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA
-"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","25/10/2034","Durable"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29",NA,NA
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","24/11/2033","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29",NA,NA
@@ -255,7 +255,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","25/10/2034","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29","30/06/2033","Durable"
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA
@@ -374,7 +373,6 @@
 "Rennes","ROUILLE","GAETAN","agent d'exploitation","District 35",NA,NA
 "Rennes","RUAULT","JOHAN","agent d'exploitation","District 35",NA,NA
 "Rennes","TEFFO","DAMIEN","agent d'exploitation","District 35",NA,NA
-"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA
 "Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22",NA,NA
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","24/11/2033","Durable"
@@ -416,6 +414,11 @@
 "Savenay","SIMON","PASCAL","responsable de cei","District 44",NA,NA
 "Savenay","THOMAS","FRANCK","chef equipe a","District 44",NA,NA
 "Savenay","TREHIN","ARNAUD","agent d'exploitation","District 44",NA,NA
+"ST 35","BENOIT","DOMINIQUE","agent chargé de tra","District 35","02/04/2031","Durable"
+"ST 35","CAMUS","BERTRAND","ouvrier en  equipe","District 35",NA,NA
+"ST 35","COCHARD","CHRISTOPHE","assisitant  de gest","District 35","02/04/2031","Durable"
+"ST 35","LE BERRE","JANICK","ouvrier en  equipe","District 35",NA,NA
+"ST 35","SENCIER","CHRISTOPHE","agent chargé de tra","District 35","02/04/2031","Durable"
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35",NA,NA
 "St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35",NA,NA
@@ -447,7 +450,7 @@
 "St Thegonnec","LE DUFF","XAVIER","chef equipe a","District 29",NA,NA
 "St Thegonnec","LE FALHER","LUDOVIC","agent d'exploitation","District 29",NA,NA
 "St Thegonnec","LECOQ","ROMUALD","agent d'exploitation","District 29",NA,NA
-"St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","21/09/2027","Durable"
+"St Thegonnec","MALYSZKA","DAVID","agent d'exploitation","District 29","21/09/2027","Moins d'1 an"
 "St Thegonnec","MEAR","FABRICE","agent d'exploitation","District 29",NA,NA
 "St Thegonnec","MERRER","PHILIPPE","agent d'exploitation","District 29","01/02/2028","Durable"
 "St Thegonnec","MIOSSEC","ALAIN","responsable de cei","District 29",NA,NA
@@ -486,13 +489,15 @@
 "Loudeac","ROUAUX","LUDOVIC","agent d'exploitation","District 22",NA,NA
 "Loudeac","TRAVAILLE","ROMAIN","agent d'exploitation","District 22",NA,NA
 "Loudeac","URVOIX","JOEL","agent d'exploitation","District 22",NA,NA
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56",NA,NA
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56",NA,NA
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56",NA,NA
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56",NA,NA
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA

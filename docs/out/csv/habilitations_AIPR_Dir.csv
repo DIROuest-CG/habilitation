@@ -2,7 +2,7 @@
 "Bain de Bretagne","AMAUCE","FREDERIC","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
 "Bain de Bretagne","BOURGINE","THIERRY","agent d'exploitation","District 35","AIPR Opérateur","10/10/2029","Durable"
 "Bain de Bretagne","BUSSON","PASCAL","agent d'exploitation","District 35",NA,NA,NA
-"Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35","AIPR Opérateur","04/09/2026","Moins de 6 mois"
+"Bain de Bretagne","FERTRE","CHARLY","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","GUIONNET","MARTIAL","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
 "Bain de Bretagne","HAMON","CEDRIC","agent d'exploitation","District 35","AIPR Opérateur","28/11/2028","Durable"
 "Bain de Bretagne","JUSTAL","PATRICK","responsable d'explo","District 35",NA,NA,NA
@@ -10,7 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35",NA,NA,NA
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","AIPR Opérateur","28/11/2028","Durable"
-"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35","AIPR Opérateur","21/11/2028","Durable"
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
 "Bain de Bretagne","TRIHAN","CEDRIC","agent d'exploitation","District 35","AIPR Opérateur","10/10/2029","Durable"
@@ -85,11 +85,11 @@
 "Chateauneuf du Faou","TRICHARD","LUC","agent d'exploitation","District 29","AIPR Opérateur","15/12/2028","Durable"
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
-"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","AIPR Opérateur","16/03/2027","Moins d'1 an"
+"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","AIPR Opérateur","28/10/2030","Durable"
-"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","AIPR Opérateur","10/11/2026","Moins de 6 mois"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","AIPR Opérateur","11/12/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44","AIPR - Encadrant","19/12/2028","Durable"
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
@@ -287,8 +287,8 @@
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44","AIPR - Encadrant","13/11/2030","Durable"
 "Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","HECHT","FRANCK","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
-"Nantes","HERVO","BENOIST",NA,"District 44","AIPR - Encadrant","19/12/2028","Durable"
 "Nantes","HERVO","BENOIST",NA,"District 44","AIPR Opérateur","10/11/2026","Moins de 6 mois"
+"Nantes","HERVO","BENOIST",NA,"District 44","AIPR - Encadrant","19/12/2028","Durable"
 "Nantes","HERVO","BENOIST-CHARLES","chef equipe d","District 44",NA,NA,NA
 "Nantes","LEFORT","DAVID","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Nantes","LERAY","GARY","agent d'exploitation","District 44","AIPR Opérateur","06/11/2030","Durable"
@@ -324,7 +324,6 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22","AIPR - Encadrant","20/11/2028","Durable"
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22","AIPR Opérateur","21/11/2028","Durable"
-"Pleslin","ROBERT","CEDRIC",NA,"District 22","AIPR Opérateur","21/11/2028","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35",NA,NA,NA
 "Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35",NA,NA,NA
@@ -375,8 +374,8 @@
 "Rennes","BRIEND","PHILIPPE","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
 "Rennes","BROGARD","MAXIME","agent d'exploitation","District 35",NA,NA,NA
 "Rennes","BUFFET","ANDRE","agent d'exploitation","District 35","AIPR Opérateur","09/10/2029","Durable"
-"Rennes","CHAUVEL","FREDERIC","chef equipe c","District 35","AIPR - Encadrant","11/10/2029","Durable"
 "Rennes","CHAUVEL","FREDERIC","chef equipe c","District 35","AIPR - Concepteur","20/06/2029","Durable"
+"Rennes","CHAUVEL","FREDERIC","chef equipe c","District 35","AIPR - Encadrant","11/10/2029","Durable"
 "Rennes","CHEREL","JEAN-MICHEL","chef equipe f","District 35","AIPR - Encadrant","08/11/2029","Durable"
 "Rennes","COURTEILLE","CYRILLE","chef equipe d","District 35","AIPR - Encadrant","11/10/2029","Durable"
 "Rennes","FAUNE","CEDRIC","agent d'exploitation","District 35",NA,NA,NA
@@ -398,7 +397,6 @@
 "Rennes","ROUILLE","GAETAN","agent d'exploitation","District 35",NA,NA,NA
 "Rennes","RUAULT","JOHAN","agent d'exploitation","District 35","AIPR Opérateur","10/10/2029","Durable"
 "Rennes","TEFFO","DAMIEN","agent d'exploitation","District 35",NA,NA,NA
-"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","AIPR Opérateur","22/11/2028","Durable"
@@ -443,6 +441,14 @@
 "Savenay","SIMON","PASCAL","responsable de cei","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Savenay","THOMAS","FRANCK","chef equipe a","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Savenay","TREHIN","ARNAUD","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
+"ST 35","BENOIT","DOMINIQUE","agent chargé de tra","District 35","AIPR Opérateur","08/02/2029","Durable"
+"ST 35","CAMUS","BERTRAND","ouvrier en  equipe","District 35","AIPR Opérateur","28/11/2028","Durable"
+"ST 35","COCHARD","CHRISTOPHE","assisitant  de gest","District 35","AIPR Opérateur","08/02/2029","Durable"
+"ST 35","LE BERRE","JANICK","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","SENCIER","CHRISTOPHE","agent chargé de tra","District 35","AIPR Opérateur","08/02/2029","Durable"
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56","AIPR Opérateur","28/02/2028","Durable"
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56",NA,NA,NA
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56",NA,NA,NA
 "St Aubin du Cormier","BARBETTE","OLIVIER","responsable de cei","District 35",NA,NA,NA
 "St Aubin du Cormier","BIGNON","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "St Aubin du Cormier","BLANCHET","DANIEL","agent d'exploitation","District 35",NA,NA,NA
@@ -507,7 +513,6 @@
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA

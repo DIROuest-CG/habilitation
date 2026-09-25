@@ -10,7 +10,7 @@
 "Bain de Bretagne","LOICHON","JEREMY","responsable de cei","District 35","Mini-pelles _ ACES","06/04/2027","Moins d'1 an"
 "Bain de Bretagne","LOISEAU","NICOLAS","agent d'exploitation","District 35",NA,NA,NA
 "Bain de Bretagne","PAUMIER","GUY","agent d'exploitation","District 35","Mini-pelles _ ACES","16/06/2032","Durable"
-"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35",NA,NA,NA
+"Bain de Bretagne","ROBERT","CEDRIC","responsable d'explo","District 35","Mini-pelles _ ACES","18/04/2034","Durable"
 "Bain de Bretagne","THIERRY","MICHAEL","chef equipe a","District 35",NA,NA,NA
 "Bain de Bretagne","THIERRY","MICKAEL",NA,"District 35","Mini-pelles _ ACES","13/10/2026","Moins de 6 mois"
 "Bain de Bretagne","TRIHAN","ANTHONY","agent d'exploitation","District 35","Mini-pelles _ ACES","14/03/2034","Durable"
@@ -80,7 +80,7 @@
 "Chateauneuf du Faou","GIMAY","CHRISTOPHE","chef.fe d'équipe","District 29",NA,NA,NA
 "Chateauneuf du Faou","GUEGUEN","MAXIME","agent d'exploitation","District 29","Mini-pelles _ ACES","02/04/2036","Durable"
 "Chateauneuf du Faou","HEMERY","GILBERT","responsable de cei","District 29",NA,NA,NA
-"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29",NA,NA,NA
+"Chateauneuf du Faou","LINGUENHELD","VINCENT","chef.fe d'équipe","District 29","Mini-pelles _ ACES","25/10/2034","Durable"
 "Chateauneuf du Faou","PIRIOU","LUC","agent d'exploitation","District 29","Mini-pelles _ ACES","22/10/2035","Durable"
 "Chateauneuf du Faou","RANNOU","LOIC","agent d'exploitation","District 29","Mini-pelles _ ACES","02/04/2036","Durable"
 "Chateauneuf du Faou","SEITE","DAMIEN","agent d'exploitation","District 29","Mini-pelles _ ACES","02/04/2036","Durable"
@@ -114,8 +114,8 @@
 "Heric","LELIEVRE","OLIVIER","responsable d'explo","District 44",NA,NA,NA
 "Heric","LEPAGE","ERIC","agent d'exploitation","District 44",NA,NA,NA
 "Heric","LEROY","PHILIPPE","agent d'exploitation","District 44",NA,NA,NA
-"Heric","LUCO","TONY","chef(fe) d'equipe","District 44","Mini-pelles _ ACES","13/10/2026","Moins de 6 mois"
 "Heric","LUCO","TONY","chef(fe) d'equipe","District 44","CACES R482 catA : Tracteur <100CV","27/03/2033","Durable"
+"Heric","LUCO","TONY","chef(fe) d'equipe","District 44","Mini-pelles _ ACES","13/10/2026","Moins de 6 mois"
 "Heric","OUARY","JEROME","agent d'exploitation","District 44","CACES R482 catA : Tracteur <100CV","17/03/2033","Durable"
 "Heric","PENLOUP","PHILIPPE","chef equipe c","District 44",NA,NA,NA
 "Heric","POUILLOUX","FABRICE","agent d'exploitation","District 44",NA,NA,NA
@@ -148,8 +148,8 @@
 "Le Perray","JEGLOT","ANTHONY","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","JONQUET","HERVE","agent d'exploitation","District 22",NA,NA,NA
 "Le Perray","LHOMMEAU","JACQUES","agent d'exploitation","District 22","Mini-pelles _ ACES","09/11/2033","Durable"
-"Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22","Mini-pelles _ ACES","14/10/2026","Moins de 6 mois"
 "Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22","CACES R482 catA : Tracteur <100CV","17/03/2033","Durable"
+"Le Perray","NICOLAS","DIDIER","agent d'exploitation","District 22","Mini-pelles _ ACES","14/10/2026","Moins de 6 mois"
 "Le Perray","NOGRETTE","STEPHANE","responsable de cei","District 22",NA,NA,NA
 "Le Perray","OLLIVIER","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Le Perray","PELOIS","GERALD","agent d'exploitation","District 22","Mini-pelles _ ACES","09/11/2033","Durable"
@@ -227,7 +227,6 @@
 "Melgven","JAMET","JOHANN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","LE DUDAL","STEPHANE","responsable d'explo","District 29",NA,NA,NA
 "Melgven","LE LAMER","ERIC","agent d'exploitation","District 29",NA,NA,NA
-"Melgven","LINGUENHELD","VINCENT",NA,"District 29","Mini-pelles _ ACES","25/10/2034","Durable"
 "Melgven","MARTIN","GAETAN","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","OZEWINSKI","BERTRAND","agent d'exploitation","District 29",NA,NA,NA
 "Melgven","PLUCHON","RONAN","agent d'exploitation","District 29",NA,NA,NA
@@ -250,7 +249,6 @@
 "Pleslin","RANVEL","PATRICK","agent d'exploitation","District 22","Mini-pelles _ ACES","18/04/2034","Durable"
 "Pleslin","RAVENEL","STEPHANE","responsable d'explo","District 22",NA,NA,NA
 "Pleslin","RIQUIER","LAURENT","agent d'exploitation","District 22",NA,NA,NA
-"Pleslin","ROBERT","CEDRIC",NA,"District 22","Mini-pelles _ ACES","18/04/2034","Durable"
 "Pleslin","ROQUET","ALAIN","agent d'exploitation","District 22",NA,NA,NA
 "Pleumeleuc","AGUILO","FRANCK","agent d'exploitation","District 35","Mini-pelles _ ACES","14/03/2034","Durable"
 "Pleumeleuc","BAUDAIS","PATRICK","agent d'exploitation","District 35",NA,NA,NA
@@ -306,7 +304,6 @@
 "Rennes","ROUILLE","GAETAN","agent d'exploitation","District 35","Mini-pelles _ ACES","20/04/2033","Durable"
 "Rennes","RUAULT","JOHAN","agent d'exploitation","District 35",NA,NA,NA
 "Rennes","TEFFO","DAMIEN","agent d'exploitation","District 35","Mini-pelles _ ACES","20/04/2033","Durable"
-"Rostrenen","CHEREL","STEPHANE","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","COETMEUR","ANTHONY","agent d'exploitation","District 22","Mini-pelles _ ACES","11/10/2026","Moins de 6 mois"
 "Rostrenen","FANIC","DORIAN","agent d'exploitation","District 22",NA,NA,NA
 "Rostrenen","GASNIER","TERENCE","agent d'exploitation","District 22","Mini-pelles _ ACES","02/02/2034","Durable"
@@ -412,7 +409,6 @@
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
@@ -518,3 +514,11 @@
 "Ploermel","POUSSE","CHRISTELE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","SERY","GUY","chef(fe) d'equipe","District 56",NA,NA,NA
 "Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56",NA,NA,NA
+"ST 35","BENOIT","DOMINIQUE","agent chargé de tra","District 35",NA,NA,NA
+"ST 35","CAMUS","BERTRAND","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","COCHARD","CHRISTOPHE","assisitant  de gest","District 35",NA,NA,NA
+"ST 35","LE BERRE","JANICK","ouvrier en  equipe","District 35",NA,NA,NA
+"ST 35","SENCIER","CHRISTOPHE","agent chargé de tra","District 35",NA,NA,NA
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56",NA,NA,NA
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56",NA,NA,NA
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56",NA,NA,NA
